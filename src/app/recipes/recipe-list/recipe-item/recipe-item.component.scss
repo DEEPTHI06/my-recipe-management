@@ -1,0 +1,11 @@
+.recipes-container {
+    list-style-type: none;
+    cursor: pointer;
+}
+#app-recipe-item {
+    display: block;
+     cursor:pointer;
+     height: 20px;
+     width: 90px;
+     background-color: lightgray;
+}
